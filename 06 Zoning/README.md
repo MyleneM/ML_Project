@@ -11,7 +11,7 @@
 - (5) Test more models
 - (6) Hyperparameter Tuning
 - (7) Create some specific loss for the model if needed
-- (9)  Combine models in a voting algorithm to make the approach more robust (Train + Test + Validation - Accuracy)
+- (8)  Combine models in a voting algorithm to make the approach more robust (Train + Test + Validation - Accuracy)
 
 
 
