@@ -2,7 +2,7 @@
 
 ## Next Steps for Improvement of the Zoning Scripts
 
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2861/2861645.png>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2861/2861645.png">
 
 - (1) Feature Engineering: Creating more variables based on reviews
 - (2) Zoning Cleanup: Make sure to have only one block of color in one review
